@@ -1,6 +1,6 @@
 package de.johannes.commons.util;
 
-import de.johannes.exceptions.FileException;
+import de.johannes.commons.exceptions.FileException;
 
 import java.io.*;
 

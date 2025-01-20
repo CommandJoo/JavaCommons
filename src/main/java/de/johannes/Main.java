@@ -1,11 +1,7 @@
 package de.johannes;
 
-import de.johannes.commons.util.Files;
+import de.johannes.commons.events.EventListener;
 
-import java.io.IOException;
+public class Main implements EventListener {
 
-public class Main {
-    public static void main(String[] args) throws IOException {
-        System.out.println(Files.readResource("/de/johannes/test"));
-    }
 }

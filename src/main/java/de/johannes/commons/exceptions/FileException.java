@@ -1,4 +1,4 @@
-package de.johannes.exceptions;
+package de.johannes.commons.exceptions;
 
 import java.io.File;
 
